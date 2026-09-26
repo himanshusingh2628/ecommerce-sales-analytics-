@@ -1,0 +1,16 @@
+order_id,order_date,customer_id,product_name,category,region,quantity,unit_price,sales,profit,payment_method
+ORD1001,2026-01-05,CUST001,Wireless Mouse,Electronics,North,2,799,1598,320,UPI
+ORD1002,2026-01-07,CUST002,Keyboard,Electronics,West,1,1299,1299,260,Credit Card
+ORD1003,2026-01-10,CUST003,Office Chair,Furniture,South,1,5499,5499,1100,Debit Card
+ORD1004,2026-01-12,CUST004,Notebook,Stationery,East,5,120,600,150,Cash
+ORD1005,2026-01-15,CUST005,USB Hub,Electronics,North,2,899,1798,360,UPI
+ORD1006,2026-01-18,CUST006,Desk Lamp,Furniture,West,2,999,1998,400,UPI
+ORD1007,2026-01-21,CUST007,Pen Set,Stationery,South,4,150,600,180,Cash
+ORD1008,2026-01-25,CUST008,Monitor,Electronics,East,1,12999,12999,2600,Credit Card
+ORD1009,2026-02-02,CUST009,Backpack,Accessories,North,2,1499,2998,600,UPI
+ORD1010,2026-02-05,CUST010,Webcam,Electronics,West,1,2499,2499,500,Debit Card
+ORD1011,2026-02-09,CUST011,Office Table,Furniture,South,1,6999,6999,1400,Credit Card
+ORD1012,2026-02-13,CUST012,Marker Pack,Stationery,East,3,200,600,150,Cash
+ORD1013,2026-02-18,CUST013,Headphones,Electronics,North,2,1999,3998,800,UPI
+ORD1014,2026-02-22,CUST014,Water Bottle,Accessories,West,3,599,1797,360,UPI
+ORD1015,2026-02-26,CUST015,Calculator,Stationery,South,2,499,998,200,Debit Card
